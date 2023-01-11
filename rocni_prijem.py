@@ -1,4 +1,4 @@
-# Program, který vypočte roční příjem a průměrnou měsíční příjem.
+# Program, který vypočte roční příjem a průměrnou měsíční mzdu.
 
 year = {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0,
         "june": 0, "july": 0, "august": 0, "september": 0, "october": 0,
